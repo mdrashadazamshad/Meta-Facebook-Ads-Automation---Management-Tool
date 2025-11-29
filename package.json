@@ -1,0 +1,12 @@
+{
+  "name": "meta-ads-tool",
+  "version": "1.0.0",
+  "description": "Automate Meta/Facebook Ads campaigns and tracking",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
