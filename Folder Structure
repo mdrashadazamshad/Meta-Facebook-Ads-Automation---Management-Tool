@@ -1,0 +1,10 @@
+meta-ads-tool/
+├── src/
+│   ├── main.js
+│   └── utils.js
+├── config/
+│   └── fb-config.json
+├── package.json
+├── README.md
+├── .gitignore
+└── LICENSE
